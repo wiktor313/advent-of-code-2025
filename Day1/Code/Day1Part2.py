@@ -2,8 +2,8 @@ import csv
 
 current_state = 50
 iteration = 0
-data = csv.reader(open('Day1\\Resources\\day1Input.csv', 'r'))
-#data = csv.reader(open('Day1\\Resources\\day1Sample.csv', 'r'))
+data = csv.reader(open('Day1\\Resources\\Input.csv', 'r'))
+#data = csv.reader(open('Day1\\Resources\\Sample.csv', 'r'))
 
 def change_values(state, value):
     global iteration
