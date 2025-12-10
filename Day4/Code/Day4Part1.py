@@ -1,8 +1,8 @@
 #https://adventofcode.com/2025/day/4#part1
-with open('Day4\\Resources\\Sample.csv', 'r') as file:
+#with open('Day4\\Resources\\Sample.csv', 'r') as file:
+with open('Day4\\Resources\\Input.csv', 'r') as file:
     data = [line.strip() for line in file.readlines()]
-#with open('Day4\\Resources\\Input.csv', 'r') as file:
-#    data = [line.strip() for line in file.readlines()]
+
 
 def check_access(data, row, col):
     rows = len(data)

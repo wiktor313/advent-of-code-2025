@@ -1,6 +1,5 @@
 #https://adventofcode.com/2025/day/4#part2
 #with open('Day4\\Resources\\Sample.csv', 'r') as file:
-#    data = [list(line.strip()) for line in file.readlines()]  # list() zamienia string na listę
 with open('Day4\\Resources\\Input.csv', 'r') as file:
     data = [list(line.strip()) for line in file.readlines()]
 

@@ -1,6 +1,5 @@
 #https://adventofcode.com/2025/day/3#part1
 #with open('Day3\\Resources\\Sample.csv', 'r') as file:
-#    data = file.readlines()
 with open('Day3\\Resources\\Input.csv', 'r') as file:
     data = file.readlines()
 

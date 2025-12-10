@@ -1,6 +1,5 @@
 #https://adventofcode.com/2025/day/5#part1
 #with open('Day5\\Resources\\Sample.csv', 'r') as file:
-#    data = [line.strip() for line in file.readlines()]
 with open('Day5\\Resources\\Input.csv', 'r') as file:
     data = [line.strip() for line in file.readlines()]
 def check_fresh_ranges(data):
