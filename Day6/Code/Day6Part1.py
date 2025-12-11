@@ -1,4 +1,4 @@
-#https://adventofcode.com/2025/day/6#part2
+#https://adventofcode.com/2025/day/6#part1
 
 #with open('Day6\\Resources\\Sample.csv', 'r') as file:
 with open('Day6\\Resources\\Input.csv', 'r') as file:

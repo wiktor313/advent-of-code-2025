@@ -1,4 +1,4 @@
-# https://adventofcode.com/2025/day/8#part1
+# https://adventofcode.com/2025/day/8#part2
 import math
 
 #with open('Day8\\Resources\\Sample.csv', 'r') as file:
