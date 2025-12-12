@@ -1,3 +1,5 @@
+# https://adventofcode.com/2025/day/11#part2
+
 import sys
 
 sys.setrecursionlimit(5000)
